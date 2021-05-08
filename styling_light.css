@@ -380,7 +380,7 @@ tr td:last-child{
         left:0 !important;
     }
     #nav-toggle:checked + .sidebar{
-        left: 0 i !important;
+        left: 0 !important;
         z-index:100;
         width:345px;
     }
